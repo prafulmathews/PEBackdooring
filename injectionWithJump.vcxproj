@@ -24,6 +24,7 @@
     <ProjectGuid>{6f9e8dfa-621c-40ac-8250-57a5ed153531}</ProjectGuid>
     <RootNamespace>injectionWithJump</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Backdoor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
